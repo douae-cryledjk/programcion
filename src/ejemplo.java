@@ -1,6 +1,7 @@
-public class ejemplo
+public class ejemplo {
 
-   static void main()
-{   string nombre= "douae";
-    IO.println(douae);
+   static void main() {
+
+    String nombre= "douae";
+    IO.println(nombre);}
 }
